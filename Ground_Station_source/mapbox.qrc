@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>helper.js</file>
+        <file>main.qml</file>
+        <file>icons/marker.png</file>
+        <file>icons/scale.png</file>
+        <file>icons/scale_end.png</file>
+        <file>menus/ItemPopupMenu.qml</file>
+        <file>menus/MainMenu.qml</file>
+        <file>menus/MapPopupMenu.qml</file>
+        <file>menus/MarkerPopupMenu.qml</file>
+        <file>map/Map_component.qml</file>
+        <file>map/Marker.qml</file>
+        <file>forms/Message.qml</file>
+        <file>forms/MessageForm.ui.qml</file>
+    </qresource>
+</RCC>

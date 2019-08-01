@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="icons/marker.png">../Ground_Station_source/icons/marker.png</file>
+        <file alias="icons/scale.png">../Ground_Station_source/icons/scale.png</file>
+        <file alias="icons/scale_end.png">../Ground_Station_source/icons/scale_end.png</file>
+    </qresource>
+</RCC>
